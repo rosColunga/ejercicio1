@@ -1,0 +1,35 @@
+.div-2,.div-3, .div-4 {
+  width: 200px;
+  height: 100px;
+  padding: 10px 0px 0px 5px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.div-1{
+  display: block;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.div-2{
+  display: block;
+}
+
+.div-3 {
+  display: inline-block;
+}
+
+.div-4 {
+  display: inline;
+}
+
+
+.yellow-flag {
+  background-color: #F7B617;
+}
+
+.gray-flag {
+  background-color: #2B2B2B;
+  color: #FFF;
+}
