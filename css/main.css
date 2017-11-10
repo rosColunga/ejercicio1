@@ -1,3 +1,4 @@
+/* Añadiendo declaraciones para requierimientos de parte 2 a 4*/
 .div-2,.div-3, .div-4 {
   width: 200px;
   height: 100px;
@@ -6,25 +7,29 @@
   margin-bottom: 10px;
 }
 
+/* Estructura básica de Parte 1*/
 .div-1{
   display: block;
   height: 100px;
   margin-bottom: 10px;
 }
 
+/* Aplicando segundo requerimiento, bloques uno sobre otro*/
 .div-2{
   display: block;
 }
 
+/* Aplicando bloques en línea, parte 3*/
 .div-3 {
   display: inline-block;
 }
 
+/* Estructura en línea como el flujo del texto, ignora los márgenes top y bottom*/
 .div-4 {
   display: inline;
 }
 
-
+/* Valores hexadecimales de colores */
 .yellow-flag {
   background-color: #F7B617;
 }
